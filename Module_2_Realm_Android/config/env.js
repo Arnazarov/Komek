@@ -1,0 +1,6 @@
+import { ADMIN_USERNAME, ADMIN_PASSWORD } from '@env';
+
+export default {
+  ADMIN_USERNAME: ADMIN_USERNAME,
+  ADMIN_PASSWORD: ADMIN_PASSWORD,
+};
