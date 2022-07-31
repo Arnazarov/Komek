@@ -88,4 +88,4 @@ yarn android or npm run android
 Note: Alternatively, you can run the Komek.apk file on a device or emulator as well.
 
 ###  Snapshots
-![Home](./Module_2_Realm_Android/assets/welcome.JPG) ![Home](./Module_2_Realm_Android/assets/home.JPG) ![Home](./Module_2_Realm_Android/assets/profile.JPG)
+![Home](https://github.com/Arnazarov/Komek/blob/master/Module_2_Realm_Android/assets/welcome.jpg) ![Home](https://github.com/Arnazarov/Komek/blob/master/Module_2_Realm_Android/assets/home.jpg) ![Home](https://github.com/Arnazarov/Komek/blob/master/Module_2_Realm_Android/assets/profile.jpg)
